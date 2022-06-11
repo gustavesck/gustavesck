@@ -1,3 +1,5 @@
 # Hi, I’m Gustavo 👨🏻‍💻
 
-Just a Web Development student.
+- 💻 I'm currently learning Web Development.
+- 🔭 Linux and open-source enthusiast.
+- 📚 Interested in foreign languages.
